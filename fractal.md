@@ -18,7 +18,7 @@ Imagine each line makes up a triangle. Replace each line by the other 2 sides of
 
 In previous part the triangle midpoint was either above or below the hypotenuse. Do it the other way now.
 
-## Part 5: putting all together
+## Part 5: putting it all together
 The shape you have drawn has a pointy end. Draw 4 copies of the same shape, with the point end of each copy points to the origin.
 
 ## Part 6: in the other direction
