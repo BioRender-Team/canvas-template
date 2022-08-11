@@ -10,4 +10,4 @@ You should see a blank page with a black line.
 
 ## Instructions
 
-[Drawing a dragon](./dragon.md)
+[Drawing a fractal](./fractal.md)
