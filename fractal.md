@@ -1,6 +1,6 @@
 # Challenge
 
-We will be drawing a fractal today! feel free to use the internet to any extent you like. 
+Feel free to use the internet to any extent you like.
 
 ## Part 1: cantor set
 
