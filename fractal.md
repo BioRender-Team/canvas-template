@@ -22,7 +22,7 @@ In previous part the triangle midpoint was either above or below the hypotenuse.
 The shape you have drawn has a pointy end. Draw 4 copies of the same shape, with the pointy end of each copy points to the origin.
 
 ## Part 6: in the other direction
-Do the same as part 5 but with the modification done in part 4 (point ends of 4 copies will be pointing in the north/south/east/west directions)
+Do the same as part 5 but with the modification done in part 4 (pointy ends of 4 copies will be pointing in the north/south/east/west directions)
 
 ## Part 7: nice
 Put more copies of the total result in part 5 and part 6, with different rotations.
